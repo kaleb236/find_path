@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="images">
+    <file>images/animation.png</file>
+    <file>images/current.png</file>
+    <file>images/goto.png</file>
+    <file>images/location.png</file>
+    <file>images/swap.png</file>
+    <file>images/preferences.png</file>
+    <file>images/map.png</file>
+  </qresource>
+</RCC>
